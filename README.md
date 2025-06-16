@@ -19,7 +19,6 @@ A React Native app that parses mobile money (MoMo) SMS messages to track and ana
 - **Expo / Bare Workflow** – Dev/Prod flexibility
 - **SMS Permission APIs (Android)** – For reading SMS
 - **SQLite / AsyncStorage** – Local data persistence
-- **Victory Native / Recharts / D3** – Data visualization
 
 ## ⚠️ Limitations
 
